@@ -38,7 +38,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_781635_wish_list_wish_item" name="x_781635_wish_list_wish_item" sys_domain="global" view="Default view">40cb838b1b06c1101bd5ec23604bcba4</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_781635_wish_list_wish_item" sys_domain="global" view="Default view">c0cb838b1b06c1101bd5ec23604bcba3</sys_ui_section>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_781635_wish_list_wish_item" sys_domain="global" view="Default view">88cb838b1b06c1101bd5ec23604bcba2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-03-10 04:20:37</sys_updated_on>
         </sys_ui_form_section>
